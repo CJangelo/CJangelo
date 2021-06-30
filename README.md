@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - Currently working on building out the R training modules for my team. 
 - R&D interests: I am particularly interested in the development of novel latent variable models to clinical applications. This requires some original methodological work. 
 - FDA Guidance: I spent a lot of time thinking about the analyses described in the FDA COA Guidance 3 and 4 and how current practice can be improved. 
